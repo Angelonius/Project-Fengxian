@@ -1,0 +1,59 @@
+39300104 = {
+	name="Bu"
+	dynasty=50625
+	martial=20
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	learning=10
+	religion="taoist"
+	culture="jin"
+	trait="brilliant_strategist"
+	trait="cavalry_leader"
+	trait="strong"
+	trait="organizer"
+	trait="brave"
+	trait="robust"
+	trait="tall"
+	occluded=yes
+	trait="legendary"
+	disallow_random_traits = yes
+	1.1.3={
+		birth=yes
+	}
+	2300.9.1={
+		create_bloodline = {
+			type = flying_general_bloodline
+			has_dlc = "Holy Fury"
+		}
+	}
+	2530.1.1={
+		death=yes
+	}
+}
+39300105 = {
+	name="Fengxian"
+	dynasty=50625
+	martial=25
+	diplomacy=12
+	intrigue=12
+	stewardship=16
+	learning=20
+	religion="katoliko"
+	culture="jin"
+	trait="brilliant_strategist"
+	trait="cavalry_leader"
+	trait="strong"
+	trait="organizer"
+	trait="brave"
+	trait="robust"
+	trait="tall"
+	father=39300104
+	disallow_random_traits = yes
+	2525.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
