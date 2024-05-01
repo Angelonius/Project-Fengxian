@@ -1,0 +1,15 @@
+50625 = { name="Lu" culture=jin
+coat_of_arms = {
+		religion = tridemism
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 92 #neow_dynasties_chinese_eac
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}		
+		used_for_random = no
+}
