@@ -1,0 +1,15 @@
+flying_general_bloodline = {
+	picture = GFX_bloodlines_symbol_taoist
+	inheritance = patrilineal
+	allow_bastards = no
+	combat_rating = 5
+	command_modifier = {
+		cavalry = 1.25
+	}
+	martial = 10
+	maoist_opinion = 7
+	chinese_traditional_group_opinion = 7
+	bloodline_effect_battle_survivor = 1
+	inheritance = patrilineal
+	flags = { historical_bloodline battle_survivor_bloodline }
+}
